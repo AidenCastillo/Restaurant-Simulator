@@ -1,0 +1,27 @@
+{
+  "name": "restaurant-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidenCastillo/Restaurant-Simulator.git"
+  },
+  "keywords": [
+    "simulator"
+  ],
+  "author": "Aiden Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AidenCastillo/Restaurant-Simulator/issues"
+  },
+  "homepage": "https://github.com/AidenCastillo/Restaurant-Simulator#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
